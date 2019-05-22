@@ -1,0 +1,11 @@
+{
+  "name": "restful_dependencies",
+  "version": "1.0.0",
+  "description": "Dependencies ",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
